@@ -74,3 +74,6 @@ cd my-post-app
 npm install axios bootstrap
 npm install react-bootstrap bootstrap
 npm install react-router-dom
+
+replit url
+https://e38ecda3-1343-4e26-bb58-47b2275cd030-00-2xd1rhykg7zll.riker.replit.dev/
